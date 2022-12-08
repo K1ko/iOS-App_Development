@@ -1,3 +1,9 @@
+var a = 5
 
-//This is a comment
-print("The result of 5+3 is \(5+3).")
+var b = 8
+
+print("The value of a is \(a)")
+print("The value of a is \(b)")
+
+print("a: \(b)")
+print("b: \(a)")

@@ -8,7 +8,7 @@ func passw_generator() {
     let password = alphabet[Int.random(in: 0...25)] + alphabet[Int.random(in: 0...25)] + alphabet[Int.random(in: 0...25)] + alphabet[Int.random(in: 0...25)] + alphabet[Int.random(in: 0...25)] + alphabet[Int.random(in: 0...25)]
     
     print(password)
-    
+    //password encryption
 }
 
 //new add

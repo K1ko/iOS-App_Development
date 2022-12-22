@@ -1,3 +1,11 @@
+//
+//  File.swift
+//  fdsds
+//
+//  Created by Kristián Červenka on 13/12/2022.
+//
+
+
 import Foundation
 
 // Define a struct to represent a currency

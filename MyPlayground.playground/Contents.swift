@@ -1,4 +1,6 @@
 //Range operator
-let randomNum = Float.random(in:1..<100)
-//can use <= , >= etc.
+var randomNum = [25,11,76,99,21]
+
+randomNum.shuffle()
+
 print(randomNum)
